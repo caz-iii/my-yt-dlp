@@ -1,0 +1,3 @@
+.\yt-dlp.exe -x
+
+ffmpeg -i audio.opus -acodec libmp3lame audio.mp3
